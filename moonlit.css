@@ -1,0 +1,20 @@
+.container{
+    height: 1000px;
+    width: 100%;
+    background-color: rgb(76, 83, 105);
+}
+.moon{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(192, 207, 241);
+    border-radius: 50%;
+    margin-left: 40%;
+    box-shadow: 5px 5px 1000px white;
+    
+
+
+}
+.khali{
+    height: 200px;
+    width: 100%;
+}
